@@ -24,7 +24,7 @@ jobs:
           github_user_name: officialyahyakhan-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00BFA5&color_dots=#161b22,#00443e,#006d64,#009e91,#00BFA5
 
       # 2. Push Snake to Output Branch
       - name: 🚀 Push Snake to Output Branch
