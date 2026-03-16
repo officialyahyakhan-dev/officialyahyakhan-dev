@@ -74,6 +74,13 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 
 <img src="section_divider.svg" width="100%" />
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=officialyahyakhan-dev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+</p>
+
+<img src="section_divider.svg" width="100%" />
+
 ### 📊 GitHub Stats (Tokyo Night)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=officialyahyakhan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00BFA5" width="48%" />
