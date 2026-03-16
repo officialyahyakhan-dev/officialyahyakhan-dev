@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="2000" viewBox="0 0 120 2000">
+  <style>
+    @keyframes matrix {
+      0% { transform: translateY(-500px); opacity: 0; }
+      20% { opacity: 1; }
+      80% { opacity: 1; }
+      100% { transform: translateY(2000px); opacity: 0; }
+    }
+    .rain { font-family: 'Courier New', monospace; font-size: 14px; fill: #00BFA5; opacity: 0; animation: matrix linear infinite; }
+    .s1 { animation-duration: 15s; animation-delay: 0s; }
+    .s2 { animation-duration: 20s; animation-delay: 2s; }
+    .s3 { animation-duration: 18s; animation-delay: 5s; }
+    .s4 { animation-duration: 25s; animation-delay: 1s; }
+    .s5 { animation-duration: 22s; animation-delay: 7s; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#0d1117" />
+  
+  <!-- Cascading Code Columns -->
+  <g transform="translate(10, 0)">
+    <text x="0" y="0" class="rain s1">010110</text>
+    <text x="0" y="100" class="rain s1">FLUTTER</text>
+    <text x="0" y="300" class="rain s1">DART</text>
+    <text x="0" y="500" class="rain s1">CODE</text>
+    <text x="0" y="700" class="rain s1">110011</text>
+    <text x="0" y="900" class="rain s1">REACT</text>
+    <text x="0" y="1100" class="rain s1">JS</text>
+    <text x="0" y="1300" class="rain s1">LMS</text>
+    <text x="0" y="1500" class="rain s1">BUILD</text>
+  </g>
+  
+  <g transform="translate(40, 0)">
+    <text x="0" y="50" class="rain s2">XP:2Y</text>
+    <text x="0" y="250" class="rain s2">SWAT</text>
+    <text x="0" y="450" class="rain s2">FIREBASE</text>
+    <text x="0" y="650" class="rain s2">10101</text>
+    <text x="0" y="850" class="rain s2">APP</text>
+    <text x="0" y="1050" class="rain s2">WEB</text>
+    <text x="0" y="1250" class="rain s2">NEXT</text>
+    <text x="0" y="1450" class="rain s2">UI/UX</text>
+  </g>
+
+  <g transform="translate(80, 0)">
+    <text x="0" y="20" class="rain s3">YAHYA</text>
+    <text x="0" y="220" class="rain s3">KHAN</text>
+    <text x="0" y="420" class="rain s3">0530</text>
+    <text x="0" y="620" class="rain s3">DEV</text>
+    <text x="0" y="820" class="rain s3">STACK</text>
+    <text x="0" y="1020" class="rain s3">CLOUD</text>
+    <text x="0" y="1220" class="rain s3">API</text>
+    <text x="0" y="1420" class="rain s3">GIT</text>
+  </g>
+  
+  <!-- Subtle Grid Lines -->
+  <line x1="119" y1="0" x2="119" y2="2000" stroke="#00BFA5" stroke-width="0.5" stroke-dasharray="10,10" opacity="0.3" />
+</svg>
