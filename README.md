@@ -1,17 +1,28 @@
-<!-- 
-  SET YOUR GITHUB USERNAME HERE
-  Replace 'yahyakhan0530' below with your actual GitHub username to activate the stats.
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00D1B2&height=200&section=header&text=Yahya%20Khan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer&descSize=25&descAlignY=60" width="100%" />
+  <table border="0" width="100%">
+    <tr>
+      <td width="30%" align="center">
+        <!-- 🎨 CUSTOM PIXEL ART AVATAR -->
+        <img src="pixel_avatar.png" width="220" alt="Yahya Khan Pixel Avatar" style="border-radius: 20px;" />
+      </td>
+      <td width="70%" valign="middle">
+        <h1 align="left">Hey there, I'm Yahya Khan 👋</h1>
+        <p align="left">
+          <img src="https://capsule-render.vercel.app/render?type=rect&color=00D1B2&height=40&width=350&text=WEB%20%26%20MOBILE%20APP%20DEVELOPER&fontSize=20&fontAlignX=10&fontAlignY=50" alt="Role" />
+        </p>
+        <p align="left" style="font-size: 1.1em; color: #8b949e;">
+          Crafting high-performance digital experiences with <b>Flutter</b> and <b>React</b>.<br/>
+          Bridging the gap between <i>Design</i> and <i>Engineering</i>.
+        </p>
+        <p align="left">
+          <a href="https://officialyahyakhan.vercel.app">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1B2&width=435&lines=Flutter+%26+React+Specialist;Building+Modern+Automation+Tools;Turning+Ideas+into+Reality;2+Years+of+Experience" alt="Typing SVG" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <a href="https://officialyahyakhan.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=Flutter+%26+React+Specialist;Building+Modern+Automation+Tools;Turning+Ideas+into+Reality;2+Years+of+Experience" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
