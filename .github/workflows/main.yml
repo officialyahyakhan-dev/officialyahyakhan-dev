@@ -14,12 +14,14 @@ jobs:
   update-readme:
     name: Update Profile Assets & Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # 1. Generate the Snake Animation
       - name: 🐍 Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: yahyakhaan
+          github_user_name: officialyahyakhan-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -33,9 +35,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Update Activity Feed (Blog Posts / LinkedIn)
+      # 3. Update Activity Feed (Optional)
       - name: 📝 Pull Latest Activity Feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/yahyakhaan" # Placeholder - update with actual RSS if available
+          feed_list: "https://dev.to/feed/officialyahyakhan-dev"
           max_post_count: 5
