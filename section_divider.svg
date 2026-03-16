@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2" viewBox="0 0 1000 2" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 1000 10" preserveAspectRatio="none">
   <defs>
     <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#00d1b2;stop-opacity:0" />
@@ -6,10 +6,10 @@
       <stop offset="100%" style="stop-color:#00d1b2;stop-opacity:0" />
     </linearGradient>
   </defs>
-  <rect width="1000" height="2" fill="url(#divGrad)">
+  <rect width="1000" height="2" y="4" fill="url(#divGrad)">
     <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite" />
   </rect>
-  <circle cx="0" cy="1" r="1.5" fill="#00d1b2">
+  <circle cx="0" cy="5" r="3" fill="#00d1b2">
     <animate attributeName="cx" from="0" to="1000" dur="4s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
   </circle>
