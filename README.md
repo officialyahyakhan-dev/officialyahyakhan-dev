@@ -6,13 +6,16 @@
         <img src="pixel_avatar.png" width="220" alt="Yahya Khan Pixel Avatar" style="border-radius: 20px;" />
       </td>
       <td width="70%" valign="middle">
-        <h1 align="left">Hey there, I'm Yahya Khan 👋</h1>
+        <h1 align="left">👋 Hi, I'm Yahya Khan</h1>
+        <h3 align="left">Web & Mobile App Developer</h3>
         <p align="left">
-          <img src="https://capsule-render.vercel.app/render?type=rect&color=00D1B2&height=40&width=350&text=WEB%20%26%20MOBILE%20APP%20DEVELOPER&fontSize=20&fontAlignX=10&fontAlignY=50" alt="Role" />
+          <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+          <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
         </p>
         <p align="left" style="font-size: 1.1em; color: #8b949e;">
-          Crafting high-performance digital experiences with <b>Flutter</b> and <b>React</b>.<br/>
-          Bridging the gap between <i>Design</i> and <i>Engineering</i>.
+          Building scalable web apps and cross-platform mobile applications. Specialized in <b>automation</b> and <b>real-world utility tools</b>.
         </p>
         <p align="left">
           <a href="https://officialyahyakhan.vercel.app">
@@ -26,115 +29,108 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>
-        I am a results-driven <b>Web & Mobile App Developer</b> based in Swat, Pakistan. With over 2 years of hands-on experience, I bridge the gap between complex requirements and high-performance solutions.
-      </p>
-      <p>
-        My philosophy centers on <b>Clean Architecture</b>, <b>User-Centric Design</b>, and <b>Automation</b>. I am currently dedicated to scaling Learning Management Systems (LMS) and engineering sophisticated web utility suites.
-      </p>
-      <p>
-        ⚡ <b>Favorite Stack:</b> Flutter, React, Firebase, and Modern JavaScript.
-      </p>
-      <br/>
-      <h3>🔧 Core Technical Expertise</h3>
-      <table>
-        <tr>
-          <td><b>Mobile</b></td>
-          <td><code>Flutter</code> <code>Dart</code> <code>React Native</code></td>
-        </tr>
-        <tr>
-          <td><b>Web</b></td>
-          <td><code>React.js</code> <code>Next.js</code> <code>JavaScript</code> <code>Tailwind</code></td>
-        </tr>
-        <tr>
-          <td><b>Backend</b></td>
-          <td><code>Firebase</code> <code>REST APIs</code> <code>Node.js (Learning)</code></td>
-        </tr>
-        <tr>
-          <td><b>Design</b></td>
-          <td><code>Figma</code> <code>Canva</code> <code>UI/UX</code></td>
-        </tr>
-      </table>
-    </td>
-    <td width="40%" valign="top">
-      <h3>📊 Professional Statistics</h3>
-      <a href="https://github.com/yahyakhan0530">
-        <img src="https://github-readme-stats.vercel.app/api?username=yahyakhan0530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1B2" width="100%" alt="Main Stats" />
-      </a>
-      <br/>
-      <a href="https://github.com/yahyakhan0530">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhan0530&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1B2" width="100%" alt="Top Languages" />
-      </a>
-      <br/>
-      <a href="https://github.com/yahyakhan0530">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhan0530&theme=tokyonight&hide_border=true&stroke=00D1B2&ring=00D1B2&fire=00D1B2" width="100%" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+
+I am a passionate **Web & Mobile App Developer** with over **2 years of experience** in crafting high-performance digital solutions. My expertise lies in architecting cross-platform mobile apps using **Flutter** and scalable web interfaces with **React**. I thrive on solving complex problems through clean code, automation, and intuitive user experiences.
+
+- 📍 Based in **Swat, Pakistan**
+- ⚡ Specialized in **LMS Platforms** and **Developer Utility Websites**
+- 🌱 Constantly learning and evolving with **Modern Tech Stacks**
+- 🤝 Open to collaborations on **Open Source** and **Innovation-led projects**
 
 ---
 
-### 🌟 High-Impact Projects
+### 💻 Tech Stack
 
-<div align="center">
-
-| Project | Core Goal | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| **Geofence Attendance** | Precision Location tracking for worksites | `Flutter` `Firebase` `Maps API` | ✅ |
-| **Resume Analyzer** | AI scoring and improvement suggestions | `React` `OpenAI API` `JS` | 🚀 |
-| **Resume Builder** | Drag & drop professional template engine | `Flutter` `Riverpod` `PDF` | 📦 |
-| **Contract Maker** | Legal document automation for freelancers | `Flutter` `LocalDB` `Templates` | ✨ |
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </div>
 
 ---
 
-### 📈 Activity & Contributions
+### 🛠️ Tools & Technologies
+
+<div align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **Geofence Attendance** | Precision geolocation worker attendance system. | `Flutter` `Firebase` | ✅ |
+| **Resume Analysis Tool** | AI-driven scoring and suggestion engine. | `React` `JavaScript` | 🚀 |
+| **Resume Builder App** | Professional resume generator with templates. | `Flutter` `Dart` | 📦 |
+| **Contract Maker App** | Automated legal contract generator for freelancers. | `Flutter` `LocalDB` | ✨ |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yahyakhan0530&theme=tokyonight&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A" width="100%" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhan0530&theme=tokyonight&color=00D1B2&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yahyakhan0530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1B2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhan0530&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1B2" width="40%" />
 </p>
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Connect with me</h3>
-      <p align="left">
-        <a href="mailto:yahyakhan0530@gmail.com"><img src="https://img.shields.io/badge/-yahyakhan0530@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahyakhan0530@gmail.com" /></a><br/>
-        <a href="https://officialyahyakhan.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://officialyahyakhan.vercel.app" /></a><br/>
-        <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a><br/>
-        <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="30%" valign="top">
-      <h3>🗣️ Languages</h3>
-      <ul>
-        <li><b>English</b> (Professional)</li>
-        <li><b>Urdu / Pashto</b> (Native)</li>
-        <li><b>Hindi</b> (Fluent)</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Profile Views</h3>
-      <img src="https://komarev.com/ghpvc/?username=yahyakhan0530&color=00D1B2&style=flat-square&label=VISITS+%F0%9F%93%88" />
-    </td>
-  </tr>
-</table>
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhan0530&theme=tokyonight&color=00D1B2&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### 🔥 Language Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhan0530&theme=tokyonight&hide_border=true&stroke=00D1B2&ring=00D1B2&fire=00D1B2" width="100%" />
+</p>
+
+---
+
+### 🏗️ Current Work
+
+- 🔭 Building a comprehensive **Learning Management System (LMS)**.
+- 📱 Developing multiple **online utility tools** websites.
+- 🌱 Mastering **advanced Flutter architecture** and **backend scaling**.
+- 🚀 Publishing high-performance apps on the **Google Play Store**.
+
+---
+
+### 📬 Contact / Portfolio
+
+<div align="left">
+  <a href="https://officialyahyakhan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:yahyakhan0530@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <p><i>"Quality is not an act, it is a habit."</i></p>
-  <b>Mastered by <a href="https://officialyahyakhan.vercel.app">Yahya Khan</a></b>
+  <img src="https://komarev.com/ghpvc/?username=yahyakhan0530&color=00D1B2&style=flat-square&label=PROFILE+VIEWS+%F0%9F%90%8D" />
+  <br/><br/>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
+  <b>Built with ❤️ by Yahya Khan</b>
 </div>
