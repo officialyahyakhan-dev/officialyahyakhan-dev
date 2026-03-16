@@ -1,18 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="200" viewBox="0 0 1000 200">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d1b2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00796b;stop-opacity:1" />
-    </linearGradient>
-    <path id="wave" d="M 0 100 C 250 50 250 150 500 100 C 750 50 750 150 1000 100 L 1000 200 L 0 200 Z" fill="url(#grad)" />
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <style>
+    @keyframes fall {
+      0% { transform: translateY(-20px); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateY(220px); opacity: 0; }
+    }
+    .code { font-family: 'Courier New', monospace; font-size: 14px; fill: #00D1B2; opacity: 0; animation: fall linear infinite; }
+    .c1 { animation-duration: 4s; animation-delay: 0s; }
+    .c2 { animation-duration: 6s; animation-delay: 1s; }
+    .c3 { animation-duration: 5s; animation-delay: 2s; }
+    .c4 { animation-duration: 7s; animation-delay: 0.5s; }
+    .c5 { animation-duration: 4.5s; animation-delay: 3s; }
+    .title { font-family: 'Arial Black', sans-serif; font-size: 48px; fill: white; filter: drop-shadow(0 0 10px rgba(0,209,178,0.5)); }
+    .subtitle { font-family: 'Arial', sans-serif; font-size: 24px; fill: #e0e0e0; }
+  </style>
+  
   <rect width="100%" height="100%" fill="#0d1117" />
-  <use xlink:href="#wave" y="20">
-    <animate attributeName="x" from="0" to="-500" dur="10s" repeatCount="indefinite" />
-  </use>
-  <use xlink:href="#wave" y="40" opacity="0.5">
-    <animate attributeName="x" from="-500" to="0" dur="15s" repeatCount="indefinite" />
-  </use>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white">YAHYA KHAN</text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#e0e0e0">Web &amp; Mobile App Developer</text>
+  
+  <!-- Falling Code Streams -->
+  <text x="10%" y="0" class="code c1">if (isAwesome) {</text>
+  <text x="30%" y="0" class="code c2">return Flutter();</text>
+  <text x="50%" y="0" class="code c3">&lt;React.Component /&gt;</text>
+  <text x="70%" y="0" class="code c4">firebase.init();</text>
+  <text x="90%" y="0" class="code c5">while (coding) {</text>
+  
+  <text x="15%" y="0" class="code c3">const dev = 'Yahya';</text>
+  <text x="35%" y="0" class="code c1">dart.compile();</text>
+  <text x="55%" y="0" class="code c4">await success();</text>
+  <text x="75%" y="0" class="code c2">npm install magic</text>
+  <text x="95%" y="0" class="code c5">git push origin</text>
+  
+  <!-- Glassmorphism Overlay -->
+  <rect x="250" y="50" width="500" height="100" rx="15" fill="rgba(13, 17, 23, 0.7)" stroke="rgba(0, 209, 178, 0.3)" />
+  
+  <!-- Text Content -->
+  <text x="500" y="95" dominant-baseline="middle" text-anchor="middle" class="title">YAHYA KHAN</text>
+  <text x="500" y="130" dominant-baseline="middle" text-anchor="middle" class="subtitle">Web &amp; Mobile App Developer</text>
 </svg>

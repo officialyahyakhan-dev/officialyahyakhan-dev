@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="50" viewBox="0 0 1000 50">
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .marquee { display: flex; animation: scroll 20s linear infinite; }
+    .icon { font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; fill: white; }
+    .bg { fill: #20232a; rx: 5; }
+  </style>
+  
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="20s" repeatCount="indefinite" />
+    
+    <!-- Set 1 -->
+    <rect x="10" y="10" width="80" height="30" class="bg" fill="#02569B"/>
+    <text x="50" y="30" text-anchor="middle" class="icon">Flutter</text>
+    
+    <rect x="100" y="10" width="70" height="30" class="bg" fill="#0175C2"/>
+    <text x="135" y="30" text-anchor="middle" class="icon">Dart</text>
+    
+    <rect x="180" y="10" width="80" height="30" class="bg" fill="#61DAFB"/>
+    <text x="220" y="30" text-anchor="middle" class="icon" fill="black">React</text>
+    
+    <rect x="270" y="10" width="90" height="30" class="bg" fill="#F7DF1E"/>
+    <text x="315" y="30" text-anchor="middle" class="icon" fill="black">JavaScript</text>
+    
+    <rect x="370" y="10" width="70" height="30" class="bg" fill="#E34F26"/>
+    <text x="405" y="30" text-anchor="middle" class="icon">HTML5</text>
+    
+    <rect x="450" y="10" width="70" height="30" class="bg" fill="#1572B6"/>
+    <text x="485" y="30" text-anchor="middle" class="icon">CSS3</text>
+    
+    <rect x="530" y="10" width="80" height="30" class="bg" fill="#039BE5"/>
+    <text x="570" y="30" text-anchor="middle" class="icon">Firebase</text>
+    
+    <rect x="620" y="10" width="80" height="30" class="bg" fill="#007ACC"/>
+    <text x="660" y="30" text-anchor="middle" class="icon">VS Code</text>
+    
+    <rect x="710" y="10" width="60" height="30" class="bg" fill="#F05032"/>
+    <text x="740" y="30" text-anchor="middle" class="icon">Git</text>
+    
+    <rect x="780" y="10" width="80" height="30" class="bg" fill="#3DDC84"/>
+    <text x="820" y="30" text-anchor="middle" class="icon">Android</text>
+
+    <!-- Set 2 (Duplicate for seamless loop) -->
+    <g transform="translate(1000 0)">
+      <rect x="10" y="10" width="80" height="30" class="bg" fill="#02569B"/>
+      <text x="50" y="30" text-anchor="middle" class="icon">Flutter</text>
+      
+      <rect x="100" y="10" width="70" height="30" class="bg" fill="#0175C2"/>
+      <text x="135" y="30" text-anchor="middle" class="icon">Dart</text>
+      
+      <rect x="180" y="10" width="80" height="30" class="bg" fill="#61DAFB"/>
+      <text x="220" y="30" text-anchor="middle" class="icon" fill="black">React</text>
+      
+      <rect x="270" y="10" width="90" height="30" class="bg" fill="#F7DF1E"/>
+      <text x="315" y="30" text-anchor="middle" class="icon" fill="black">JavaScript</text>
+      
+      <rect x="370" y="10" width="70" height="30" class="bg" fill="#E34F26"/>
+      <text x="405" y="30" text-anchor="middle" class="icon">HTML5</text>
+      
+      <rect x="450" y="10" width="70" height="30" class="bg" fill="#1572B6"/>
+      <text x="485" y="30" text-anchor="middle" class="icon">CSS3</text>
+      
+      <rect x="530" y="10" width="80" height="30" class="bg" fill="#039BE5"/>
+      <text x="570" y="30" text-anchor="middle" class="icon">Firebase</text>
+      
+      <rect x="620" y="10" width="80" height="30" class="bg" fill="#007ACC"/>
+      <text x="660" y="30" text-anchor="middle" class="icon">VS Code</text>
+      
+      <rect x="710" y="10" width="60" height="30" class="bg" fill="#F05032"/>
+      <text x="740" y="30" text-anchor="middle" class="icon">Git</text>
+      
+      <rect x="780" y="10" width="80" height="30" class="bg" fill="#3DDC84"/>
+      <text x="820" y="30" text-anchor="middle" class="icon">Android</text>
+    </g>
+  </g>
+</svg>
