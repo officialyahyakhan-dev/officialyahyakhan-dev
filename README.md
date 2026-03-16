@@ -102,22 +102,19 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
   </table>
 </div>
 
-<img src="section_divider.svg" width="100%" />
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <img src="section_divider.svg" width="100%" />
 
-### � Gaming Lounge (Interactive)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/officialyahyakhan-dev/officialyahyakhan-dev/main/dino.gif" width="100%" alt="Dino Run" />
-  <p><i>The snake eats my code! The more projects I build, the bigger it gets.</i></p>
-</div>
-
-<img src="section_divider.svg" width="100%" />
-
 ### 🏗️ Current Work & Activity
+<div align="left">
+  <ul>
+    <li>🔭 Building a comprehensive <b>Learning Management System (LMS)</b>.</li>
+    <li>📱 Developing multiple <b>online utility tools</b> websites.</li>
+    <li>🚀 Publishing high-performance apps on the <b>Google Play Store</b>.</li>
+  </ul>
+</div>
 
 <img src="section_divider.svg" width="100%" />
 
