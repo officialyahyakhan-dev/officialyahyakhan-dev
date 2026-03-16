@@ -1,0 +1,41 @@
+name: 10/10 Profile Automation
+
+on:
+  schedule:
+    # Run every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    name: Update Profile Assets & Activity
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Generate the Snake Animation
+      - name: 🐍 Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: yahyakhaan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 2. Push Snake to Output Branch
+      - name: 🚀 Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Update Activity Feed (Blog Posts / LinkedIn)
+      - name: 📝 Pull Latest Activity Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/yahyakhaan" # Placeholder - update with actual RSS if available
+          max_post_count: 5
