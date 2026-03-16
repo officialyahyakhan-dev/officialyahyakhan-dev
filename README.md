@@ -41,7 +41,7 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 
 <img src="section_divider.svg" width="100%" />
 
-### � Skills & Experience
+### 📱 Skills & Experience
 <p align="left">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -57,8 +57,6 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
   <img src="https://img.shields.io/badge/-Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <img src="section_divider.svg" width="100%" />
@@ -75,11 +73,11 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 
 ### 📊 GitHub Stats (Tokyo Night)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyakhaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00BFA5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhaan&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFA5" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialyahyakhan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00BFA5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialyahyakhan-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFA5" width="40%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhaan&theme=tokyonight&hide_border=true&stroke=00BFA5&ring=00BFA5&fire=00BFA5" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialyahyakhan-dev&theme=tokyonight&hide_border=true&stroke=00BFA5&ring=00BFA5&fire=00BFA5" width="100%" />
 </p>
 
 <img src="section_divider.svg" width="100%" />
@@ -90,11 +88,15 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
     <tr>
       <td width="50%" align="center">
         <h4>🐍 Contribution Snake</h4>
-        <img src="https://raw.githubusercontent.com/yahyakhaan/yahyakhaan/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/officialyahyakhan-dev/officialyahyakhan-dev/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/officialyahyakhan-dev/officialyahyakhan-dev/output/github-contribution-grid-snake.svg">
+          <img src="https://raw.githubusercontent.com/officialyahyakhan-dev/officialyahyakhan-dev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+        </picture>
       </td>
       <td width="50%" align="center">
         <h4>🚀 Activity Graph</h4>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhaan&theme=tokyonight&color=00BFA5&hide_border=true&area=true" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialyahyakhan-dev&theme=tokyonight&color=00BFA5&hide_border=true&area=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -102,17 +104,20 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 
 <img src="section_divider.svg" width="100%" />
 
-### 🏗️ Current Work & Activity
-<div align="left">
-  <ul>
-    <li>🔭 Building a comprehensive <b>Learning Management System (LMS)</b>.</li>
-    <li>📱 Developing multiple <b>online utility tools</b> websites.</li>
-    <li>🚀 Publishing high-performance apps on the <b>Google Play Store</b>.</li>
-  </ul>
-</div>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<img src="section_divider.svg" width="100%" />
+
+### � Gaming Lounge (Interactive)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/officialyahyakhan-dev/officialyahyakhan-dev/main/dino.gif" width="100%" alt="Dino Run" />
+  <p><i>The snake eats my code! The more projects I build, the bigger it gets.</i></p>
+</div>
+
+<img src="section_divider.svg" width="100%" />
+
+### 🏗️ Current Work & Activity
 
 <img src="section_divider.svg" width="100%" />
 
@@ -120,13 +125,13 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 <div align="left">
   <a href="https://officialyahyakhan.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:yahyakhan0530@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yahyakhaan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/officialyahyakhan-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <img src="section_divider.svg" width="100%" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahyakhaan&color=00BFA5&style=flat-square&label=PROFILE+VIEWS+%F0%9F%90%8D" />
+  <img src="https://komarev.com/ghpvc/?username=officialyahyakhan-dev&color=00BFA5&style=flat-square&label=PROFILE+VIEWS+%F0%9F%90%8D" />
   <br/><br/>
   <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
   <b>Built with ❤️ by Yahya Khan</b>
