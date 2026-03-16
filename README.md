@@ -81,8 +81,8 @@ I am a passionate **Web & Mobile App Developer** with over **2 years of experien
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyakhan0530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1B2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhan0530&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1B2" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yahyakhaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1B2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhaan&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1B2" width="40%" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ I am a passionate **Web & Mobile App Developer** with over **2 years of experien
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhan0530&theme=tokyonight&color=00D1B2&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhaan&theme=tokyonight&color=00D1B2&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ I am a passionate **Web & Mobile App Developer** with over **2 years of experien
 ### 🔥 Language Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhan0530&theme=tokyonight&hide_border=true&stroke=00D1B2&ring=00D1B2&fire=00D1B2" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhaan&theme=tokyonight&hide_border=true&stroke=00D1B2&ring=00D1B2&fire=00D1B2" width="100%" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ I am a passionate **Web & Mobile App Developer** with over **2 years of experien
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahyakhan0530&color=00D1B2&style=flat-square&label=PROFILE+VIEWS+%F0%9F%90%8D" />
+  <img src="https://komarev.com/ghpvc/?username=yahyakhaan&color=00D1B2&style=flat-square&label=PROFILE+VIEWS+%F0%9F%90%8D" />
   <br/><br/>
   <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
   <b>Built with ❤️ by Yahya Khan</b>
