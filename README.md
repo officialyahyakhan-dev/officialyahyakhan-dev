@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=0&section=header&text=%20&fontSize=0" />
+</p>
+
 <div align="center">
   <!-- 🌊 CINEMATIC CODING HEADER -->
   <img src="header_banner.svg" width="100%" alt="Cinematic Header" />
