@@ -76,7 +76,7 @@ I am a passionate **Software Developer** with over **2 years of experience** in 
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialyahyakhan-dev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=officialyahyakhan-dev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
 </p>
 
 <img src="section_divider.svg" width="100%" />
